@@ -33,6 +33,6 @@
 ## Приклад використання
 Далі ми можемо просто перейти за наступною адресою:
 ```bash
-  http://127.0.0.1:5000/api/v1/hello-world-21
+  http://127.0.0.1:5000/api/v1/hello-world-10
 ```
 ![App Screenshot](https://snipboard.io/WMNOQe.jpg)
