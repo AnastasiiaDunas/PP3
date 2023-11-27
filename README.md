@@ -7,7 +7,7 @@
 
 ## Вимоги
 
- - [Python 3.9](https://virtualenv.pypa.io/en/latest/](https://www.python.org/downloads/release/python-390/)
+ - [Python 3.9](https://www.python.org/downloads/release/python-390/)
  - [virtualenv](https://virtualenv.pypa.io/en/latest/)
 
 ## Завантаження проєкту
